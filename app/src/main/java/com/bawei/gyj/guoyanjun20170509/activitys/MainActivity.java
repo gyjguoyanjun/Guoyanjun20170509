@@ -15,7 +15,7 @@ import com.bawei.gyj.guoyanjun20170509.fragments.Fragment2;
 import java.util.ArrayList;
 
 public class MainActivity extends FragmentActivity {
-
+    //这是崔涵淞写的注释!!!!
     private ViewPager viewPager;
     private TextView xw1;
     private TextView xw2;
