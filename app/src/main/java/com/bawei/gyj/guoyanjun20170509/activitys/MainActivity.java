@@ -20,7 +20,7 @@ public class MainActivity extends FragmentActivity {
     private TextView xw1;
     private TextView xw2;
     private ArrayList<TextView> tList;
-    //111
+    //111222
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
